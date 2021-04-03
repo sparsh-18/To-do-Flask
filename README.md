@@ -2,6 +2,9 @@
 A ToDo List app built on Flask microframework of Python.
 The App performs CRUD operations on sqlite/flask using SQLALCHEMY ORM.
 
+<img src="https://github.com/sparsh-18/To-do-Flask/blob/main/raw/main.png" width="500">
+<img src="https://github.com/sparsh-18/To-do-Flask/blob/main/raw/update.png" width="500">
+
 ## Installation
 
 Assuming you have Python3 and virtualenv installed.
